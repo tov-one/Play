@@ -1,21 +1,5 @@
-#EXTINF:-1 , Formula 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master3.s2stream.top/hls/0/stream.m3u8
-
-#EXTINF:-1 , Formula 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master3.s2stream.top/hls/1/stream.m3u8
-
-#EXTINF:-1 , Formula 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#EXTVLCOPT:http-origin=https://ceria.nontonx.com
-https://master3.s2stream.top/hls/0/stream.m3u8
-
-#EXTINF:-1 , Formula 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#EXTVLCOPT:http-origin=https://ceria.nontonx.com
-https://master3.s2stream.top/hls/1/stream.m3u8
+EXTINF:-1 , RTM SUKAN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://cdn.stmify.com/mytv/stream/SUKAN_RTM/index.mpd
